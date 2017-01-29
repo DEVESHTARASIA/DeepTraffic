@@ -1,6 +1,6 @@
 
 //<![CDATA[
-
+// Maximum Accuracy : Still Running
 // a few things don't have var in front of them - they update already existing variables the game needs
 lanesSide = 4;
 patchesAhead = 11;
